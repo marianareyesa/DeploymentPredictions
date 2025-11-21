@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+        {"source": "/", "destination": "/forecast_region_dashboard.html"}
+    ]
+}
